@@ -12,7 +12,7 @@
 }
 
 body{
-    background-image: url(/images/images/bg-intro-desktop.png);
+    background-image: url(./Zuri\ Task\ RESPONSIVE/images/bg-intro-desktop.png);
     background-color: var(--red);
     color: var(--white);
     font-family: "Poppins";
